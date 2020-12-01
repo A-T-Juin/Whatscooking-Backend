@@ -1,0 +1,6 @@
+/frontend
+/media
+__pycache__
+migrations
+/whatscooking/settings_secrets.py
+db.sqlite3

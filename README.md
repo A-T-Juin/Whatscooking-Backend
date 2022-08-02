@@ -1,6 +1,6 @@
 # WhatsCooking
 
-This repository is for the backend portion of WhatsCooking. It is a social media platform for discovering and sharing recipes that is built on GraphQL.
+This repository is for the backend portion of WhatsCooking. It is a social media platform for discovering and sharing recipes that is built on GraphQL. The frontend portion can be found [here](https://github.com/A-T-Juin/Whatscooking-Frontend)
 
 ## Motivation
 
@@ -14,8 +14,10 @@ This project was conceived by my love for cooking and urge to learn more about G
  - AWS
  - Python
 
+## GraphQL Sample Query
 
+![Alt text](docs/samplequery.png "Sample Query")
 
 ## Contribute
 
-If you're interested in helping with the project, email me @ a.t.juin@gmail.com !
+If you're interested in helping with the project, email me @ AllanJuin@AllanJuin.me !

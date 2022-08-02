@@ -14,7 +14,7 @@ This project was conceived by my love for cooking and urge to learn more about G
  - AWS
  - Python
 
-## GraphQL Sample Query
+## GraphQL Sample Query and associated docs
 
 ![Alt text](docs/samplequery.png "Sample Query")
 
